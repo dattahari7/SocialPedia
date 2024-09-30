@@ -1,8 +1,6 @@
-# 12+ Hour MERN Masterclass: Build and Deploy a Threads App with Real-Time Chat Functionality
+# SocailPedia
 
-![Demo App](https://i.ibb.co/BnGdh10/Group-62.png)
-
-[Video Tutorial on Youtube](https://youtu.be/G4V4xO9wyD8)
+Feature-rich Social media app built with MERN, Socket.io, and Chakra UI, leveraging AWS Lambda, DynamoDB, and S3. Key features include JWT-based authentication, post creation, deletion, likes, comments, follow/unfollow, and real-time chat with image support and seen/unseen status. AWS Lambda handles backend services, DynamoDB manages data, and S3 stores media.
 
 Feature List:
 
